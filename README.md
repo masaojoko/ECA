@@ -11,4 +11,4 @@ Masao Joko (https://www.linkedin.com/in/masao-joko-5516692b/)
 http://mathworld.wolfram.com/ElementaryCellularAutomaton.html
 
 ## Licence 
-This project is licensed under the MIT License - see the LICENSE.txt file for details
+This project is licensed under the MIT License - see the [LICENSE.txt](/License.txt) file for details
