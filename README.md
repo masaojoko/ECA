@@ -4,6 +4,9 @@ Implementation of ECA.
 ## Demo Script
 execute `python ECA_demo.py` on your terminal
 
+## Demo Output Image
+
+
 ## Author 
 Masao Joko (https://www.linkedin.com/in/masao-joko-5516692b/)
 
