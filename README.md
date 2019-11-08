@@ -2,9 +2,7 @@
 Implementation of ECA.
 
 ## Demo Script
-```
-python ECA_demo.py
-```
+execute `python ECA_demo.py` on your terminal
 
 ## Author 
 Masao Joko (https://www.linkedin.com/in/masao-joko-5516692b/)
