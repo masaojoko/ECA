@@ -1,4 +1,4 @@
-# Elementary Cellular Automaton(ECA) Demo
+# Elementary Cellular Automaton(ECA)
 Implementation of ECA.
 
 ## Demo Script
